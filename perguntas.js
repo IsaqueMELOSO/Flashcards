@@ -17,13 +17,13 @@ CriaCartao (
 )
 
 CriaCartao (
-    Futebol,
-    pergunta,
-    resposta
+    'Futebol',
+    'Qual é a seleção com mais copas do mundo?',
+    'Seleção brasileira'
 )
 
 CriaCartao (
-    Futebol,
-    pergunta,
-    resposta
+    'Futebol',
+    'Qual é o time com mais Champions League?',
+    'O time com mais Champions League é o Real Madrid'
 )
